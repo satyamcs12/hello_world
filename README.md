@@ -1,2 +1,3 @@
 # hello_world
-first experience
+Welcome to my first github project
+
